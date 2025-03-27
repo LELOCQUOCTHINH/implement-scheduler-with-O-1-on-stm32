@@ -1,1 +1,1 @@
-#Code files inside STM32_cube_IDE/Core/Src and STM32_cube_IDE/Core/Inc
+- Code files inside STM32_cube_IDE/Core/Src and STM32_cube_IDE/Core/Inc
